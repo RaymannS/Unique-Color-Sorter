@@ -8,12 +8,12 @@ This program is a unique color sorter that detects the RGB value of each pixel i
 ### Last Edited: 2022.12.2
 
 ## How to Use
-Download the [Singh_Raymann_Color_Sorter.m] file and open it in MatLab.
-Then insert any .png image into the same directory and folder that the [Singh_Raymann_Color_Sorter.m] file is located in.
+Download the [Singh_Raymann_Color_Sorter.m](https://github.com/RaymannS/Unique-Color-Sorter "Singh_Raymann_Color_Sorter.m") file and open it in MatLab.
+Then insert any .png image into the same directory and folder that the [Singh_Raymann_Color_Sorter.m](https://github.com/RaymannS/Unique-Color-Sorter "Singh_Raymann_Color_Sorter.m") file is located in.
 Click the Run button in the Editor tab of the menu.
 When prompted enter in the name of the .png file (Ex: 'GreenRed.png') without the quotes. (A sample image 'GreenRed.png' is provided in the .zip file)
 A display will pop up with a progress bar, if you want to terminate the program you can click the cancel button.
-Once finished or terminated an output .png file will be located in the same directory and folder as the [Singh_Raymann_Color_Sorter.m] file and will contain the figure that is currently displayed by MatLab.
+Once finished or terminated an output .png file will be located in the same directory and folder as the [Singh_Raymann_Color_Sorter.m](https://github.com/RaymannS/Unique-Color-Sorter "Singh_Raymann_Color_Sorter.m") file and will contain the figure that is currently displayed by MatLab.
 
 ### Bugs and updates
 #### [0.1.2] - 2022.12.2
